@@ -24,8 +24,9 @@ The blockchain acts as a pointer to where patient data is held in an encrypted f
  
  
 
+![Image 14-08-1444 AH at 3 07 PM](https://user-images.githubusercontent.com/116710231/223106299-12a59c69-a50c-4602-b31a-9b8521b82482.jpg)
 
- ![Image 14-08-1444 AH at 3 06 PM](https://user-images.githubusercontent.com/116710231/223105978-833ef5ca-a13a-4c2f-9f6e-6cd1d863306d.jpg)
+
 
 
 
