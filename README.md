@@ -23,8 +23,9 @@ The blockchain acts as a pointer to where patient data is held in an encrypted f
  The most vital information needed in an emergency would be the patient’s name, their next of kin, medications, allergies and any sensitive decisions they may have made. Patients using SehhaChain will have the ability to select in advance which areas of their records can be viewed in an emergency situation.
  
  
- ![Image 14-08-1444 AH at 3 04 PM](https://user-images.githubusercontent.com/116710231/223105670-4e2587eb-b6ce-4997-a6f0-849277c123fd.jpg)
 
- 
+
+ ![Image 14-08-1444 AH at 3 06 PM](https://user-images.githubusercontent.com/116710231/223105978-833ef5ca-a13a-4c2f-9f6e-6cd1d863306d.jpg)
+
 
 
