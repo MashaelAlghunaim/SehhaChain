@@ -1,7 +1,6 @@
 # SehhaChain
 ***
 In the current healthcare system, patients have their health in formation spread over multiple systems, hospitals, networks and maybe even countries!
-***
 There are multiple medical records from the same patient, at different hospitals all with their own snapshot of the patient’s health at that time of their interaction with them, like x-rays… etc.
 
 SehhaChain will arrange all of these records and filter them into specific categories to better data handling. Such categorization would make the records more accessible and understandable for patients and it will also facilitate researchers in searching for the information relevant to what they want.
