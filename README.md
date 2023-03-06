@@ -22,3 +22,10 @@ The blockchain acts as a pointer to where patient data is held in an encrypted f
  3. Patient Safety:
  A patient can approve or decline healthcare professionals access to their records. However, in the event of an emergency and with the patient unconscious, there must be an ability to view certain information in order to provide the best possible care.
  The most vital information needed in an emergency would be the patient’s name, their next of kin, medications, allergies and any sensitive decisions they may have made. Patients using SehhaChain will have the ability to select in advance which areas of their records can be viewed in an emergency situation.
+ 
+ 
+ 
+ 
+ 
+ <img width="1737" alt="image" src="https://user-images.githubusercontent.com/116710231/223104159-196dce1c-83d7-48ad-9b57-e7a83e9f4caa.png">
+
